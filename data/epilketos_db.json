@@ -1,0 +1,284 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-06T08:00:00.000Z",
+  "school": {
+    "id": "sch-001",
+    "name": "SMA Negeri 103 Jakarta",
+    "type": "OSIS",
+    "npsn": "20103287",
+    "address": "Jl. Mawar Merah VI No.1, RT.6/RW.1, Malaka Jaya, Kec. Duren Sawit, Kota Jakarta Timur",
+    "principalName": "Dra. Hj. Sri Wahyuni, M.Pd.",
+    "principalNip": "19680315 199412 2 002",
+    "logoUrl": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=150&auto=format&fit=crop&q=80",
+    "academicYearDefault": "2026/2027"
+  },
+  "periods": [
+    {
+      "id": "per-2026",
+      "schoolId": "sch-001",
+      "periodName": "Pemilihan Ketua OSIS & Ketua MPK Periode 2026/2027",
+      "academicYear": "2026/2027",
+      "startDate": "2026-10-06T07:30:00.000Z",
+      "endDate": "2026-10-06T15:00:00.000Z",
+      "status": "aktif",
+      "description": "Pemilihan langsung serentak Ketua OSIS & Ketua MPK SMAN 103 Jakarta berbasis digital terenkripsi.",
+      "createdAt": "2026-09-15T08:00:00.000Z"
+    },
+    {
+      "id": "per-2025",
+      "schoolId": "sch-001",
+      "periodName": "Pemilihan Ketua & Wakil OSIS Periode 2025/2026",
+      "academicYear": "2025/2026",
+      "startDate": "2025-10-04T07:30:00.000Z",
+      "endDate": "2025-10-04T15:00:00.000Z",
+      "status": "selesai",
+      "description": "Arsip pemilihan tahun ajaran sebelumnya.",
+      "createdAt": "2025-09-10T08:00:00.000Z",
+      "closedAt": "2025-10-04T16:00:00.000Z"
+    },
+    {
+      "id": "per-2027",
+      "schoolId": "sch-001",
+      "periodName": "Pemilihan Ketua & Wakil OSIS Periode 2027/2028",
+      "academicYear": "2027/2028",
+      "startDate": "2027-10-05T07:30:00.000Z",
+      "endDate": "2027-10-05T15:00:00.000Z",
+      "status": "draft",
+      "description": "Draf persiapan pemilihan masa bakti mendatang.",
+      "createdAt": "2026-10-01T08:00:00.000Z"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "cand-osis-01",
+      "electionPeriodId": "per-2026",
+      "category": "OSIS",
+      "ballotNumber": 1,
+      "chairmanName": "Muhammad Rizky Pratama",
+      "chairmanClass": "XI MIPA 1",
+      "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=80",
+      "tagline": "Sinergi, Inovatif, Berkarakter & Peduli Lingkungan",
+      "vision": "Mewujudkan OSIS SMAN 103 Jakarta sebagai episentrum kreativitas, kepemimpinan berakhlak mulia, dan penggerak inovasi teknologi hijau.",
+      "missions": [
+        "Menyelenggarakan forum aspirasi siswa berbasis digital secara transparan dan berkala.",
+        "Mengembangkan kompetensi minat bakat melalui inkubator seni, sains, dan kewirausahaan siswa.",
+        "Mendorong program Green School Eco-Action dengan pemilahan sampah dan taman organik sekolah."
+      ],
+      "programs": [
+        "Digital Voice Box (Sistem Saran & Aspirasi Siswa Terpadu)",
+        "Teladan Science & Art Fest (Festival Kreativitas Pelajar)",
+        "Bank Sampah Siswa Berbasis Reward Poin Kantin"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "cand-osis-02",
+      "electionPeriodId": "per-2026",
+      "category": "OSIS",
+      "ballotNumber": 2,
+      "chairmanName": "Fadhil Ardian Nugroho",
+      "chairmanClass": "XI MIPA 3",
+      "photoUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=500&auto=format&fit=crop&q=80",
+      "tagline": "Kolaboratif, Berprestasi, dan Berdaya Saing Global",
+      "vision": "Menjadikan seluruh siswa SMAN 103 berdaya saing internasional dengan menjunjung tinggi kearifan lokal dan solidaritas tanpa batas.",
+      "missions": [
+        "Membangun jejaring kolaborasi antar-ekstrakurikuler dan sekolah mitra tingkat nasional.",
+        "Menyediakan bimbingan karir, olympiad corner, dan pertukaran budaya pelajar.",
+        "Memperkuat kesehatan mental siswa lewat peer-counseling santai bersama konselor sebaya."
+      ],
+      "programs": [
+        "Global Youth Forum & English Speaking Zone Setiap Jumat",
+        "Mental Health Peer Support & Ruang Curhat Damai",
+        "Liga Olahraga & E-Sport Sportif Antar-Kelas"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "cand-osis-03",
+      "electionPeriodId": "per-2026",
+      "category": "OSIS",
+      "ballotNumber": 3,
+      "chairmanName": "Kevin Jonathan Siregar",
+      "chairmanClass": "XI IPS 1",
+      "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=80",
+      "tagline": "Aksi Nyata, Humanis, Berintegritas & Merangkul Semua",
+      "vision": "Mewujudkan lingkungan sekolah yang inklusif, harmonis, serta mendukung setiap potensi siswa tanpa diskriminasi.",
+      "missions": [
+        "Memperjuangkan fasilitas kegiatan belajar yang ramah seluruh kalangan siswa.",
+        "Membina karakter kepemimpinan siswa melalui pengabdian masyarakat sekitar sekolah.",
+        "Menciptakan tata kelola kegiatan OSIS yang terbuka, akuntabel, dan minim birokrasi."
+      ],
+      "programs": [
+        "OSIS Mengajar & Baksos Pelajar untuk Masyarakat",
+        "Kantin Kejujuran & Pojok Literasi Kreatif Terbuka",
+        "Podcast Edukasi Obrolan Pelajar Inspiratif"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "cand-mpk-01",
+      "electionPeriodId": "per-2026",
+      "category": "MPK",
+      "ballotNumber": 1,
+      "chairmanName": "Raditya Bintang Pratama",
+      "chairmanClass": "XI MIPA 2",
+      "photoUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=500&auto=format&fit=crop&q=80",
+      "tagline": "Aspiratif, Independen, Kritis & Mengawal Kebijakan Siswa",
+      "vision": "Menjadikan MPK sebagai lembaga perwakilan kelas yang kredibel, aspiratif, dan berintegritas tinggi dalam mengawasi serta bersinergi dengan OSIS SMAN 103 Jakarta.",
+      "missions": [
+        "Membangun kanal penyerapan aspirasi 20 perwakilan kelas secara terstruktur melalui Sidang Pleno berkala.",
+        "Mengawal dan mengevaluasi seluruh program kerja OSIS secara objektif, akuntabel, dan transparan.",
+        "Meningkatkan literasi hukum dan etika organisasi bagi seluruh anggota perwakilan kelas."
+      ],
+      "programs": [
+        "Rembuk Aspirasi Kelas Terbuka & Kotak Suara Digital MPK",
+        "Audit Publik & Transparansi Laporan Kinerja OSIS",
+        "Youth Legislative Bootcamp Pelatihan Kepemimpinan Parlemen"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "cand-mpk-02",
+      "electionPeriodId": "per-2026",
+      "category": "MPK",
+      "ballotNumber": 2,
+      "chairmanName": "Davin Mahendra Putra",
+      "chairmanClass": "XI IPS 1",
+      "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=80",
+      "tagline": "Transparan, Tanggap Aspirasi & Penggerak Demokrasi Sekolah",
+      "vision": "Mewujudkan MPK yang proaktif mendengar suara kelas, solutif menjembatani siswa dengan pihak sekolah, serta menegakkan disiplin organisasi yang adil.",
+      "missions": [
+        "Menciptakan sistem respons cepat aduan sarana dan aspirasi kurikulum siswa langsung ke sekolah.",
+        "Menjaga independensi MPK sebagai penampung aspirasi murni dari 20 rombel kelas.",
+        "Menyelenggarakan musyawarah besar perwakilan kelas yang berlandaskan musyawarah mufakat."
+      ],
+      "programs": [
+        "Halo MPK (Sistem Aduan & Respons Aspirasi Cepat 1x24 Jam)",
+        "Sidang Paripurna Evaluasi Kinerja Triwulan OSIS",
+        "Pojok Konstitusi Tata Tertib Pelajar Nusantara"
+      ],
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ],
+  "voters": [
+    { "id": "v-01", "electionPeriodId": "per-2026", "nis": "10301", "nisn": "0081234001", "fullName": "Achmad Fauzi Rahman", "className": "X MIPA 1", "gender": "L", "pin": "A7K92M", "hasVoted": true, "votedAt": "2026-10-06T08:12:10.000Z" },
+    { "id": "v-02", "electionPeriodId": "per-2026", "nis": "10302", "nisn": "0081234002", "fullName": "Adinda Zahra Maulida", "className": "X MIPA 1", "gender": "P", "pin": "B3N85P", "hasVoted": true, "votedAt": "2026-10-06T08:15:24.000Z" },
+    { "id": "v-03", "electionPeriodId": "per-2026", "nis": "10303", "nisn": "0081234003", "fullName": "Bagas Aditya Pratama", "className": "X MIPA 2", "gender": "L", "pin": "C9W24T", "hasVoted": true, "votedAt": "2026-10-06T08:19:50.000Z" },
+    { "id": "v-04", "electionPeriodId": "per-2026", "nis": "10304", "nisn": "0081234004", "fullName": "Cantika Dewi Larasati", "className": "X MIPA 2", "gender": "P", "pin": "D6R81V", "hasVoted": false },
+    { "id": "v-05", "electionPeriodId": "per-2026", "nis": "10305", "nisn": "0081234005", "fullName": "Daffa Rizqullah Hakim", "className": "X IPS 1", "gender": "L", "pin": "E4H73X", "hasVoted": true, "votedAt": "2026-10-06T08:24:12.000Z" },
+    { "id": "v-06", "electionPeriodId": "per-2026", "nis": "10306", "nisn": "0081234006", "fullName": "Elisa Rahmawati Putri", "className": "X IPS 1", "gender": "P", "pin": "F2J96Y", "hasVoted": true, "votedAt": "2026-10-06T08:28:45.000Z" },
+    { "id": "v-07", "electionPeriodId": "per-2026", "nis": "10307", "nisn": "0081234007", "fullName": "Farhan Maulana Akbar", "className": "XI MIPA 1", "gender": "L", "pin": "G8K34Z", "hasVoted": true, "votedAt": "2026-10-06T08:35:10.000Z" },
+    { "id": "v-08", "electionPeriodId": "per-2026", "nis": "10308", "nisn": "0081234008", "fullName": "Gita Safitri Wulandari", "className": "XI MIPA 1", "gender": "P", "pin": "H5L72A", "hasVoted": false },
+    { "id": "v-09", "electionPeriodId": "per-2026", "nis": "10309", "nisn": "0081234009", "fullName": "Hafiz Ilham Saputra", "className": "XI MIPA 2", "gender": "L", "pin": "J3M69B", "hasVoted": true, "votedAt": "2026-10-06T08:41:22.000Z" },
+    { "id": "v-10", "electionPeriodId": "per-2026", "nis": "10310", "nisn": "0081234010", "fullName": "Intan Nur Aisyah", "className": "XI MIPA 2", "gender": "P", "pin": "K9P41C", "hasVoted": false },
+    { "id": "v-11", "electionPeriodId": "per-2026", "nis": "10311", "nisn": "0081234011", "fullName": "Joko Tri Wahyudi", "className": "XI IPS 1", "gender": "L", "pin": "M7Q83D", "hasVoted": true, "votedAt": "2026-10-06T08:49:15.000Z" },
+    { "id": "v-12", "electionPeriodId": "per-2026", "nis": "10312", "nisn": "0081234012", "fullName": "Kurnia Tri Ananda", "className": "XI IPS 2", "gender": "P", "pin": "N2R58E", "hasVoted": true, "votedAt": "2026-10-06T08:52:40.000Z" },
+    { "id": "v-13", "electionPeriodId": "per-2026", "nis": "10313", "nisn": "0081234013", "fullName": "Lutfi Zaki Ramadhan", "className": "XII MIPA 1", "gender": "L", "pin": "P6T94F", "hasVoted": true, "votedAt": "2026-10-06T09:02:11.000Z" },
+    { "id": "v-14", "electionPeriodId": "per-2026", "nis": "10314", "nisn": "0081234014", "fullName": "Meisya Salsabila Nur", "className": "XII MIPA 1", "gender": "P", "pin": "Q8V37G", "hasVoted": false },
+    { "id": "v-15", "electionPeriodId": "per-2026", "nis": "10315", "nisn": "0081234015", "fullName": "Naufal Izzatur Rahman", "className": "XII MIPA 2", "gender": "L", "pin": "R4W61H", "hasVoted": true, "votedAt": "2026-10-06T09:10:05.000Z" },
+    { "id": "v-16", "electionPeriodId": "per-2026", "nis": "10316", "nisn": "0081234016", "fullName": "Olivia Tiara Angelica", "className": "XII IPS 1", "gender": "P", "pin": "T9X25J", "hasVoted": true, "votedAt": "2026-10-06T09:14:33.000Z" },
+    { "id": "v-17", "electionPeriodId": "per-2026", "nis": "10317", "nisn": "0081234017", "fullName": "Pandu Wicaksono", "className": "XII IPS 2", "gender": "L", "pin": "V5Y78K", "hasVoted": false },
+    { "id": "v-18", "electionPeriodId": "per-2026", "nis": "10318", "nisn": "0081234018", "fullName": "Qonita Salma Firdaus", "className": "XII Bahasa 1", "gender": "P", "pin": "W3Z49M", "hasVoted": true, "votedAt": "2026-10-06T09:22:18.000Z" },
+    { "id": "v-19", "electionPeriodId": "per-2026", "nis": "10319", "nisn": "0081234019", "fullName": "Rafi Daniswara Putra", "className": "X MIPA 3", "gender": "L", "pin": "X7A82N", "hasVoted": false },
+    { "id": "v-20", "electionPeriodId": "per-2026", "nis": "10320", "nisn": "0081234020", "fullName": "Syifa Nurul Hidayah", "className": "X IPS 2", "gender": "P", "pin": "Y2B65P", "hasVoted": true, "votedAt": "2026-10-06T09:30:40.000Z" }
+  ],
+  "votes": [
+    { "id": "vt-osis-01", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-01", "timestamp": "2026-10-06T08:12:10.000Z" },
+    { "id": "vt-osis-02", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-02", "timestamp": "2026-10-06T08:15:24.000Z" },
+    { "id": "vt-osis-03", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-01", "timestamp": "2026-10-06T08:19:50.000Z" },
+    { "id": "vt-osis-04", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-03", "timestamp": "2026-10-06T08:24:12.000Z" },
+    { "id": "vt-osis-05", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-01", "timestamp": "2026-10-06T08:28:45.000Z" },
+    { "id": "vt-osis-06", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-02", "timestamp": "2026-10-06T08:35:10.000Z" },
+    { "id": "vt-osis-07", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-01", "timestamp": "2026-10-06T08:41:22.000Z" },
+    { "id": "vt-osis-08", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-03", "timestamp": "2026-10-06T08:49:15.000Z" },
+    { "id": "vt-osis-09", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-01", "timestamp": "2026-10-06T08:52:40.000Z" },
+    { "id": "vt-osis-10", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-02", "timestamp": "2026-10-06T09:02:11.000Z" },
+    { "id": "vt-osis-11", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-01", "timestamp": "2026-10-06T09:10:05.000Z" },
+    { "id": "vt-osis-12", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-02", "timestamp": "2026-10-06T09:14:33.000Z" },
+    { "id": "vt-osis-13", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-01", "timestamp": "2026-10-06T09:22:18.000Z" },
+    { "id": "vt-osis-14", "electionPeriodId": "per-2026", "category": "OSIS", "candidateId": "cand-osis-03", "timestamp": "2026-10-06T09:30:40.000Z" },
+    { "id": "vt-mpk-01", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-01", "timestamp": "2026-10-06T08:12:10.000Z" },
+    { "id": "vt-mpk-02", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-02", "timestamp": "2026-10-06T08:15:24.000Z" },
+    { "id": "vt-mpk-03", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-01", "timestamp": "2026-10-06T08:19:50.000Z" },
+    { "id": "vt-mpk-04", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-01", "timestamp": "2026-10-06T08:24:12.000Z" },
+    { "id": "vt-mpk-05", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-02", "timestamp": "2026-10-06T08:28:45.000Z" },
+    { "id": "vt-mpk-06", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-01", "timestamp": "2026-10-06T08:35:10.000Z" },
+    { "id": "vt-mpk-07", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-01", "timestamp": "2026-10-06T08:41:22.000Z" },
+    { "id": "vt-mpk-08", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-02", "timestamp": "2026-10-06T08:49:15.000Z" },
+    { "id": "vt-mpk-09", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-01", "timestamp": "2026-10-06T08:52:40.000Z" },
+    { "id": "vt-mpk-10", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-02", "timestamp": "2026-10-06T09:02:11.000Z" },
+    { "id": "vt-mpk-11", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-01", "timestamp": "2026-10-06T09:10:05.000Z" },
+    { "id": "vt-mpk-12", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-02", "timestamp": "2026-10-06T09:14:33.000Z" },
+    { "id": "vt-mpk-13", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-01", "timestamp": "2026-10-06T09:22:18.000Z" },
+    { "id": "vt-mpk-14", "electionPeriodId": "per-2026", "category": "MPK", "candidateId": "cand-mpk-02", "timestamp": "2026-10-06T09:30:40.000Z" }
+  ],
+  "committee": {
+    "id": "com-2026",
+    "electionPeriodId": "per-2026",
+    "skNumber": "SK.421.3/088/SMAN103/IX/2026",
+    "skDate": "2026-09-12",
+    "leaderName": "Dra. Endang Sulistiyowati",
+    "secretaryName": "Ahmad Raihan (MPK)",
+    "membersCount": 15,
+    "contactEmail": "panitia.pilketos@sman103jakarta.sch.id",
+    "username": "panitia2026",
+    "password": "TREVOOORA"
+  },
+  "auditLogs": [
+    { "id": "log-01", "timestamp": "2026-10-06T07:30:00.000Z", "actor": "Admin Sekolah", "role": "admin", "action": "Pembukaan Akses Bilik Suara Periode 2026/2027", "ipAddress": "192.168.1.10", "status": "SUCCESS" },
+    { "id": "log-02", "timestamp": "2026-10-06T07:35:12.000Z", "actor": "Panitia Pemilihan", "role": "panitia", "action": "Verifikasi Kesiapan Database & DPT (20 Siswa Terdaftar)", "ipAddress": "192.168.1.15", "status": "SUCCESS" },
+    { "id": "log-03", "timestamp": "2026-10-06T08:12:10.000Z", "actor": "Bilik Suara #01", "role": "siswa", "action": "Pencoblosan Suara Anonim Sukses (NISN: 0081234001)", "ipAddress": "192.168.1.101", "status": "SUCCESS" },
+    { "id": "log-04", "timestamp": "2026-10-06T08:35:10.000Z", "actor": "Bilik Suara #02", "role": "siswa", "action": "Pencoblosan Suara Anonim Sukses (NISN: 0081234007)", "ipAddress": "192.168.1.102", "status": "SUCCESS" },
+    { "id": "log-05", "timestamp": "2026-10-06T09:30:40.000Z", "actor": "Bilik Suara #01", "role": "siswa", "action": "Pencoblosan Suara Anonim Sukses (NISN: 0081234020)", "ipAddress": "192.168.1.101", "status": "SUCCESS" }
+  ],
+  "users": [
+    {
+      "id": "usr-01",
+      "username": "admin103",
+      "fullName": "Dra. Hj. Sri Wahyuni, M.Pd.",
+      "email": "admin.pilketos@sman103jakarta.sch.id",
+      "role": "admin",
+      "password": "ADMIN103_SUPER",
+      "isActive": true,
+      "createdAt": "2026-09-01T08:00:00.000Z",
+      "lastLogin": "2026-10-06T07:15:00.000Z",
+      "phoneNumber": "0812-9876-5432"
+    },
+    {
+      "id": "usr-02",
+      "username": "panitia2026",
+      "fullName": "Dra. Endang Sulistiyowati",
+      "email": "panitia.pilketos@sman103jakarta.sch.id",
+      "role": "panitia",
+      "password": "TREVOOORA",
+      "isActive": true,
+      "createdAt": "2026-09-12T09:00:00.000Z",
+      "lastLogin": "2026-10-06T07:28:00.000Z",
+      "phoneNumber": "0813-1122-3344"
+    },
+    {
+      "id": "usr-03",
+      "username": "operator01",
+      "fullName": "Bagas Prasetyo, S.Kom.",
+      "email": "operator.bilik1@sman103jakarta.sch.id",
+      "role": "operator",
+      "password": "operator_bilik1",
+      "isActive": true,
+      "createdAt": "2026-10-01T10:00:00.000Z",
+      "lastLogin": "2026-10-06T07:30:00.000Z",
+      "phoneNumber": "0857-4433-2211"
+    },
+    {
+      "id": "usr-04",
+      "username": "pengawas_mpk",
+      "fullName": "Ahmad Raihan (Ketua MPK Demisioner)",
+      "email": "pengawas.mpk@sman103jakarta.sch.id",
+      "role": "pengawas",
+      "password": "pengawas_jurdil",
+      "isActive": true,
+      "createdAt": "2026-10-02T11:00:00.000Z",
+      "lastLogin": "2026-10-06T07:45:00.000Z",
+      "phoneNumber": "0878-9988-7766"
+    }
+  ]
+}

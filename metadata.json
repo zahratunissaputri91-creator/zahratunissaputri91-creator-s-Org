@@ -1,0 +1,7 @@
+{
+  "name": "E-Pilketos & E-Pilkosim Digital",
+  "description": "Sistem Pemilihan Ketua OSIS & Ketua MPK 2026/2027 SMAN 103 JAKARTA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
